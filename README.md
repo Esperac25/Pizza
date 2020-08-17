@@ -1,2 +1,1 @@
-# Pizza
-Thinkful Jenny-Pizza Assignment
+# pizza
